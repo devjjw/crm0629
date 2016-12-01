@@ -10,5 +10,6 @@ public class Hello {
 		System.out.println("777");
 		System.out.println("888");
 		System.out.println("ctttt");
+		System.out.println("666");
 	}
 }
