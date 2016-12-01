@@ -2,6 +2,6 @@ package com.atguigu.git;
 
 public class Hello {
 	public static void main(String[] args) {
-		System.out.println("¹þ¹þ");
+		System.out.println("å“ˆå“ˆ");
 	}
 }
